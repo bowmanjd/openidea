@@ -59,7 +59,15 @@ backgroundSize: contain
 class: bg-white
 ---
 
-<!-- 1999 -->
+<!--
+
+It was 1999, and I was finishing college. I had managed to surround myself with a lot of good will and idealism: many of my friends were pursuing sustainable engineering, sustainable agriculture. That is, technologies that met the needs of people over the long term, even generations, rather than merely take advantage of them in the moment.
+
+And I found this compelling. But I was not a civil engineer or a farmer. I was a general nerd, though. I then someone turned me on to Linux. This is Tux, the Linux penguin. It was sustainable software. Software that was open and transparent, available for free yet providing revenue-generating opportunities. It was software that was high quality, flexible, and enduring.
+
+Today, each of you use Linux throughout a sizeable portion of your day. Linux, and other Unix-like free operating systems such as Darwin and BSD have been around for decades, yet power the iPhone or Android device you just got yesterday.
+
+-->
 
 ---
 layout: image
@@ -67,7 +75,7 @@ image: /shared_success.png
 backgroundSize: contain
 ---
 
-<!-- today. Our purpose -->
+<!-- Fast forward to today. Our purpose -->
 
 ---
 layout: image
@@ -116,7 +124,7 @@ backgroundSize: contain
 - Donate to [Open Collective](https://opencollective.com)
 - Use developer time to contribute code back to open source tools
   - maybe a Hackathon!
-- release some open source projects in a public Cargas repository
+- release some open source projects in a public repository
 
 ---
 layout: image-left
