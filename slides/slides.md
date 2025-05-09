@@ -48,6 +48,10 @@ image: /coin_jar.svg
 backgroundSize: contain
 ---
 
+## Proposal
+
+A "coin jar" of $1000 annually to distribute to free software projects with or upon which our products are built
+
 ---
 layout: image
 image: /tux.svg
@@ -66,5 +70,63 @@ backgroundSize: contain
 <!-- today. Our purpose -->
 
 ---
+layout: image
+image: /bigsoftware.svg
+backgroundSize: contain
+---
 
 ---
+layout: two-cols
+---
+
+- SSH.NET
+- Salesforce Inspector
+- XrmToolBox
+- axios
+- babel
+- docker
+- eslint
+- grunt
+- husky
+
+::right::
+
+- langchain
+- material-ui
+- openssh
+- openssl
+- pandas
+- prettier
+- sass
+- webpack
+
+---
+layout: image
+image: /dependency.png
+backgroundSize: contain
+---
+
+---
+
+## Dreaming...
+
+- Favor open source tools and building blocks
+- Learn processes and culture from established open source projects
+- Consider the [Open Source Pledge](https://opensourcepledge.com/)
+- Donate to [Open Collective](https://opencollective.com)
+- Use developer time to contribute code back to open source tools
+  - maybe a Hackathon!
+- release some open source projects in a public Cargas repository
+
+---
+layout: image-left
+image: /coin_jar.svg
+backgroundSize: contain
+---
+
+## A Modest Exercise
+
+A "coin jar" of $1000 annually to distribute to free software projects with or upon which our products are built
+
+- to give back
+- to grow more aware
