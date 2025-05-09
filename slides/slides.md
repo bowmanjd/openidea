@@ -42,6 +42,14 @@ class: text-center
 
 [openidea.bowmanjd.com](https://openidea.bowmanjd.com)
 
+<!--
+
+This is a modest slide deck, but if you want to review it or click on any links within, here is the qrcode for the deck.
+
+
+
+-->
+
 ---
 layout: image-right
 image: /coin_jar.svg
@@ -84,29 +92,10 @@ backgroundSize: contain
 ---
 
 ---
-layout: two-cols
+layout: image
+image: /oss.svg
+backgroundSize: contain
 ---
-
-- SSH.NET
-- Salesforce Inspector
-- XrmToolBox
-- axios
-- babel
-- docker
-- eslint
-- grunt
-- husky
-
-::right::
-
-- langchain
-- material-ui
-- openssh
-- openssl
-- pandas
-- prettier
-- sass
-- webpack
 
 ---
 layout: image

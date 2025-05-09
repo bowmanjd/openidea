@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(14,349)" font-size="330" style="fill:rgb(45, 112, 142)">Json.NET</text>
+<text transform="translate(4,745)" font-size="330" style="fill:rgb(72, 193, 110)">Prettier</text>
+<text transform="translate(400,970)" font-size="288" style="fill:rgb(39, 128, 142)">Axios</text>
+<text transform="translate(173,460)" font-size="139" style="fill:rgb(160, 218, 57)">Apache Parquet</text>
+<text transform="translate(727,105)" font-size="139" style="fill:rgb(50, 182, 122)">Grunt</text>
+<text transform="translate(172,102)" font-size="133" style="fill:rgb(46, 179, 124)">Jupyter</text>
+<text transform="translate(850,810)" font-size="82" style="fill:rgb(82, 197, 105)">Material UI</text>
+<text transform="translate(1451,542) rotate(-90)" font-size="82" style="fill:rgb(78, 195, 107)">OpenSSL</text>
+<text transform="translate(1573,977) rotate(-90)" font-size="82" style="fill:rgb(236, 229, 27)">OpenVPN</text>
+<text transform="translate(362,504)" font-size="57" style="fill:rgb(42, 118, 142)">Salesforce Inspector</text>
+<text transform="translate(733,473) rotate(-90)" font-size="47" style="fill:rgb(134, 213, 73)">Babel</text>
+<text transform="translate(89,976)" font-size="47" style="fill:rgb(189, 223, 38)">Docker</text>
+<text transform="translate(1423,725) rotate(-90)" font-size="47" style="fill:rgb(92, 200, 99)">ESLint</text>
+<text transform="translate(373,793) rotate(-90)" font-size="47" style="fill:rgb(33, 165, 133)">GnuPG</text>
+<text transform="translate(1199,89)" font-size="47" style="fill:rgb(31, 152, 139)">Husky</text>
+<text transform="translate(1574,465) rotate(-90)" font-size="47" style="fill:rgb(37, 132, 142)">LangChain</text>
+<text transform="translate(827,333) rotate(-90)" font-size="47" style="fill:rgb(94, 201, 98)">OpenSSH</text>
+<text transform="translate(827,243)" font-size="47" style="fill:rgb(239, 229, 28)">Python</text>
+<text transform="translate(53,281) rotate(-90)" font-size="47" style="fill:rgb(40, 125, 142)">SSH.NET</text>
+<text transform="translate(230,875) rotate(-90)" font-size="47" style="fill:rgb(60, 80, 139)">XrmToolBox</text>
+<text transform="translate(104,864) rotate(-90)" font-size="47" style="fill:rgb(64, 70, 136)">pandas</text>
+<text transform="translate(258,971)" font-size="35" style="fill:rgb(39, 126, 142)">D3.js</text>
+<text transform="translate(1093,352) rotate(-90)" font-size="35" style="fill:rgb(96, 202, 96)">Sass</text>
+<text transform="translate(1350,970)" font-size="35" style="fill:rgb(72, 20, 103)">webpack</text>
+</svg>
