@@ -127,3 +127,4 @@ A "coin jar" of $1000 annually to distribute to free software projects with or u
 
 - to give back
 - to grow more aware
+- to promote connection
