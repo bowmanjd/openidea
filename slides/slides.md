@@ -127,13 +127,17 @@ backgroundSize: contain
 
 ## Dreaming...
 
-- Favor open source tools and building blocks
+- Favor open source tools and building blocks over esoteric and proprietary 
 - Learn processes and culture from established open source projects
 - Consider the [Open Source Pledge](https://opensourcepledge.com/)
-- Donate to [Open Collective](https://opencollective.com)
+- Donate to [Open Source Collective](https://opencollective.com)
 - Use developer time to contribute code back to open source tools
   - maybe a Hackathon!
 - release some open source projects in a public repository
+
+<!--
+A reminder that the title of this exercise does have "Unlimited" after the word "Ideas" so here are a slew of things I dream of, just to put some ideas in your head. They range from "oh, easy and fun!" to "that's crazy talk". Here goes... I dream of Cargas leaning further into and open source preference when choosing tools upon which we build our products. In software, "you get what you pay for" is patently untrue (feel free to ask me to elaborate if you want me to get on a soapbox). I dream of us digging into the processes and methodologies of quality open source project to make our own processes more efficient and reliable. I dream of Cargas signing on to the Open Source pledge -- committing a minimum of $2000 back to open source per year per full time developer. (That's the crazy talk). And/or regularly donating to non-profits like "Open Source Collective" or "Apache Foundation". I think we could also contribute with time, which would give us immediate functional benefits as well. Perhaps we take a day once a year, choose a tool and goal we benefit from, and do a Hackathon with anyone who is interested. Maybe some day we identify a tool we want to contribute to open source, and increase our rapport as a company within the software developer community.
+-->
 
 ---
 layout: image-left
@@ -147,4 +151,8 @@ A "coin jar" of $1000 annually to distribute to free software projects with or u
 
 - to give back
 - to grow more aware
-- to promote connection
+- to promote community connection
+
+<!--
+But let's start simple! (read slide). I propose that our existing internal group "Tech Connect" can come up with a survey and method to select relevant projects, and then we divide up the money, and use Github Sponsors to give the money. Please note this is not a tax write-off -- the small teams and developers I am proposing we support are not 501c3 organizations. If that makes this impossible, we can of course get creative. Thank you!
+-->
